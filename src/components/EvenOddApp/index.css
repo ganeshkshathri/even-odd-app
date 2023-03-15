@@ -52,9 +52,11 @@
 .btm-para{
     color: #1e293b;
     font-size: 13px;
+    font-family: "Roboto";
 }
 @media screen and (min-width:768px){
     .btm-para{
         font-size: 18px;
+        font-family: "Roboto";
     }
 }
